@@ -1,4 +1,4 @@
-## Ohayou! Watashi wa Mayane Cardoso desu 
+## おはようございます！ わたしは Mayane Cardoso です。 
  <div>
   <a href="https://github.com/ManeCardoso">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ManeCardoso&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
