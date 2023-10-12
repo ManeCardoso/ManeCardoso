@@ -9,18 +9,8 @@
 <div> 
   <a href="https://www.instagram.com/mane_cardoso/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/manecardoso/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.discord.com/in/mcard1999/" target="_blank"><img src="https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  
-</div>
-
-# Mayane Cardoso
-
-## Welcome!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/SEUUSERNAME/)
-[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/SEUUSERNAME/)
-[![Facebook](https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=facebook)](https://www.facebook.com/SEUUSERNAME/)
-[![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/SEUUSERNAME)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/SEUUSERNAME/)
-
 ## Habilitates
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
